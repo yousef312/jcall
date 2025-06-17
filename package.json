@@ -12,6 +12,10 @@
   "scripts": {
     "build": "rollup -c"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousef312/jcall.git"
+  },
   "keywords": [
     "ajax",
     "fetch",
@@ -24,6 +28,11 @@
     "listen",
     "channel"
   ],
+  "bugs": {
+    "url": "https://github.com/yousef312/jcall/issues"
+  },
+  "homepage": "https://github.com/yousef312/jcall#readme",
+  
   "devDependencies": {
     "@rollup/plugin-commonjs": "^28.0.5",
     "@rollup/plugin-node-resolve": "^16.0.1",
